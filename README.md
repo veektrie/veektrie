@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @veektrie
 - 👀 I’m interested in projects
-- 🌱 I’m currently learning js
+
 - 💞️ I’m looking to collaborate  paid internship / full-time job
 - 📫 How to reach me adugbovictory@gmail.com
 
