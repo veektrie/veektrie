@@ -4,7 +4,7 @@
 
 Hey there! I'm Adugbo Victory, a passionate and adaptable Web Developer with a knack for turning ideas into reality through elegant code. I'm excited to bring my skills and experience to the table and collaborate on innovative projects.
 
-## Skills Snapshot
+## Professional Experience
 
 - 💻 Proficient in modern programming paradigms and fundamental React principles.
 - ⚛️ Experienced in developing dynamic user interfaces (UIs) using React, including components, hooks, and the React lifecycle.
