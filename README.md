@@ -1,6 +1,4 @@
-Absolutely — here’s your **clean, professional GitHub README** version (fully formatted in Markdown, no emojis, no fluff — just strong personal positioning, crisp layout, and ready to paste into your profile).
 
----
 
 # Hi, I'm Adugbo Victory
 
@@ -73,13 +71,33 @@ Every product, protocol, or platform I work with follows this principle:
 
 ## Selected Articles
 
-A few of my recent writings on blockchain, growth, and systems thinking:
+A selection of my published work exploring the intersection of blockchain, growth, and digital transformation:
 
-* [Building Trust Loops in Decentralized Products](#)
-* [Why Growth in Web3 Starts with Education, Not Ads](#)
-* [How AI and Blockchain Converge to Redefine Productivity](#)
-* [The Future of Blockchain in Africa: From Adoption to Innovation](#)
-* [Cross-Chain Interoperability: Why the Next Decade Belongs to Bridges](#)
+Stablecoins without Dollarisation: Adopting the US GENIUS Act for Africa
+ — TechCabal • Sep 5, 2025
+A practical blueprint for Africa to supervise stablecoins without ceding monetary sovereignty.
+
+Digital Dollars Gaining Ground as Stablecoins Reshape Global Finance, Challenge Central Banks
+ — Vanguard (Viewpoint) • Jul 28, 2025
+Stablecoins are now a mainstream money rail; regulators must adapt to transparency, redemption, and reserve risks.
+
+Stablecoins Are Changing Money Faster Than Central Banks Can Keep Up
+ — LinkedIn Article • Aug 11, 2025
+Why 'digital dollars' are outpacing legacy rails—and what that means for emerging markets.
+
+Layer-2 Rails & Account Abstraction: Sub-Cent Payments Are No Longer Theory
+ — LinkedIn Article • 2025
+Design principles for ultra-cheap payments on L2s and AA wallets—aimed at real commerce, not demos.
+
+Explore vs. Execute — The Crossroads of Startup Evolution
+ — LinkedIn Article • 2025
+A framework for African fintech and Web3 teams to balance shipping speed with reliability as they scale.
+
+From Early Adopters to Ideal Customers — The Crucial Step for Startups
+ — LinkedIn Article • 2025
+A practical playbook for turning early-adopter traction into a clear ICP and repeatable GTM motion.
+
+(Explore more on my Portfolio)
 
 (Explore more on my [Portfolio](https://adugbovictory.lovable.app/))
 
@@ -108,5 +126,3 @@ Let’s collaborate on the next generation of decentralized and data-driven syst
 **“Technology shapes the future, but systems sustain it. I build both.”**
 
 ---
-
-Would you like me to insert your *actual article links* (Medium/Substack/or blog URLs) so that section becomes live and discoverable for recruiters or collaborators browsing your GitHub?
