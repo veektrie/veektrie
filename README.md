@@ -97,8 +97,6 @@ From Early Adopters to Ideal Customers — The Crucial Step for Startups
  — LinkedIn Article • 2025
 A practical playbook for turning early-adopter traction into a clear ICP and repeatable GTM motion.
 
-(Explore more on my Portfolio)
-
 (Explore more on my [Portfolio](https://adugbovictory.lovable.app/))
 
 ---
